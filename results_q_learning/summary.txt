@@ -1,0 +1,8 @@
+Q-Learning Parameter Comparison
+
+['baseline', 0.1, 0.1, np.float64(1.25), np.float64(14.71)]
+['alpha_0.01', 0.01, 0.1, np.float64(-9.81), np.float64(23.79)]
+['alpha_0.001', 0.001, 0.1, np.float64(-225.91), np.float64(172.21)]
+['alpha_0.2', 0.2, 0.1, np.float64(2.56), np.float64(14.84)]
+['eps_0.2', 0.1, 0.2, np.float64(-3.35), np.float64(16.43)]
+['eps_0.3', 0.1, 0.3, np.float64(-14.22), np.float64(20.46)]
